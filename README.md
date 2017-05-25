@@ -1,5 +1,5 @@
 # malep2007
-Assignment for Birthday calculator
+Assignment for Birthday calculator and pygame
 
 # MBABAZI CHARLES
 
