@@ -12,7 +12,7 @@ day_of_the_month= int(day_of_the_month)
 current_year = input("Please enter the current_year\n")
 current_year = int(current_year)
 
-year = current_year - age
+year = current_year - age-1
 day = calendar.weekday(year,month,day_of_the_month)
 day_string = calendar.day_name[day]
 
